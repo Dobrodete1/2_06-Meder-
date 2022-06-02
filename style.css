@@ -4,6 +4,9 @@
 }
 body{
     background-color:rgba(26, 91, 53, 1);
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 .block{
     text-align: center;
@@ -14,4 +17,8 @@ body{
 .hello{
     color:#be8f37;
     font-family: 'Bad Script', cursive;
+}
+.text-end{
+    display: flex;
+    justify-content: center;
 }
