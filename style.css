@@ -10,7 +10,12 @@ body{
 }
 .block{
     text-align: center;
+    padding: 20px;
+    margin-top: 5%;
+    margin-left: 27%;
+    margin-right: 27%;
 }
+
 .color-text{
     color: aliceblue;
 }
@@ -21,4 +26,5 @@ body{
 .text-end{
     display: flex;
     justify-content: center;
+    align-items: center;
 }
