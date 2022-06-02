@@ -8,9 +8,9 @@ body{
 .block{
     text-align: center;
 }
-.text-center,.tetx-end{
+.text-center,.text-end{
     color: aliceblue;
 }
 .hello{
-    color:linear-gradient(180deg, #CEB076 0%, #D6BD84 100%);
+    color:#be8f37;
 }
