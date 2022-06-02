@@ -2,7 +2,15 @@
     margin: 0;
     padding: 0;
 }
-
+body{
+    background-color:rgba(26, 91, 53, 1);
+}
 .block{
     text-align: center;
+}
+.text-center,.tetx-end{
+    color: aliceblue;
+}
+.hello{
+    color:linear-gradient(180deg, #CEB076 0%, #D6BD84 100%);
 }
