@@ -8,9 +8,10 @@ body{
 .block{
     text-align: center;
 }
-.text-center,.text-end{
+.color-text{
     color: aliceblue;
 }
 .hello{
     color:#be8f37;
+    font-family: 'Bad Script', cursive;
 }
