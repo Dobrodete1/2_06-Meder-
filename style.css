@@ -38,7 +38,7 @@ body{
     font-size: 22px;
 }
 .text_center{
-    width: 600px;
+    max-width: 600px;
     margin: auto;
 }
 .position{
@@ -65,4 +65,15 @@ body{
     position: absolute;
     right: 0px!important;
     top: 0px!important;
+}
+@media (min-width: 400px){
+    .text{
+        text-align: center;
+    }
+    
+}
+@media (max-width: 700px) {
+    .leaf-none{
+        display: none;
+    }
 }
