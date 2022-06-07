@@ -77,6 +77,9 @@ body{
     .leaf-none{
         display: none;
     }
+    .text{
+        font-size: 18px;
+    }
     .block{
         display: flex;
     }
@@ -97,6 +100,17 @@ body{
     }
     .text-end{
         font-size: 15px;
+    }
+    .group_1{
+        width: 90px;
+        height: 170px;
+    }
+    .team_icons{
+        width: 75px;
+        height: 70px;
+    }
+    .mega_icons{
+        margin-top: 80px;
     }
 }
 /* @media (min-height: 400px){
