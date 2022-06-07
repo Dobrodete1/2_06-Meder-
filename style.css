@@ -97,6 +97,8 @@ body{
         position: absolute;
         top: 65px;
         right: 10px;
+        width: 45px;
+        height: 45px;
     }
     .text-end{
         font-size: 15px;
@@ -110,7 +112,10 @@ body{
         height: 70px;
     }
     .mega_icons{
-        margin-top: 80px;
+        margin-top: 30px;
+    }
+    .text_block{
+        margin-top: 60px;
     }
 }
 /* @media (min-height: 400px){
